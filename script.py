@@ -5,13 +5,13 @@ class script(object):
 I ᴀᴍ A Sɪᴍᴘʟᴇ Iᴍᴀɢᴇ Eᴅɪᴛᴏʀ Bᴏᴛ. I Cᴀɴ Eᴅɪᴛ Yᴏᴜʀ Iᴍᴀɢᴇs Tᴏ Dᴇsɪʀᴇᴅ Mᴏᴅᴇs. Sᴇɴᴅ Mᴇ Aɴʏ Iᴍᴀɢᴇ Tᴏ Eᴅɪᴛ
 
 𝗕𝗢𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗔𝗡𝗗 𝗠𝗔𝗧𝗜𝗡𝗔𝗘𝗗 𝗕𝗬 @KOT_FREE_DE_LA_HOYA_OFF</b>"""
-    HELP_MSG = """Hai, Follow these Steps..
+    HELP_MSG = """Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs..
 
-<code>🌀 Send me any Image to Edit..</code>
+<code>🌀 Sᴇɴᴅ ᴍᴇ ᴀɴʏ Iᴍᴀɢᴇ ᴛᴏ Eᴅɪᴛ</code>
 
-<code>🌀 Select the Corresponding mode that you need</code>
+<code>🌀 Sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ᴍᴏᴅᴇ ᴛʜᴀᴛ ʏᴏᴜ ɴᴇᴇᴅ</code>
 
-<code>🌀 Your Edited Image will be Uploaded </code>
+<code>🌀 Yᴏᴜʀ Eᴅɪᴛᴇᴅ Iᴍᴀɢᴇ ᴡɪʟʟ ʙᴇ Uᴘʟᴏᴀᴅᴇᴅ</code>
 
 
 © @VKPROJECTS"""
