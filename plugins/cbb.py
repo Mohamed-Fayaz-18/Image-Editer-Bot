@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "CHANNEL", url="https://t.me/VKPROJECTS"
+                        "CHANNEL", url="https://t.me/KOT_BOTS"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "CHANNEL", url="https://t.me/VKPROJECTS"
+                        "CHANNEL", url="https://t.me/KOT_BOTS"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "CHANNEL", url="https://t.me/Vkprojects"
+                        "CHANNEL", url="https://t.me/KOT_BOTS"
                     )
                 ],
             ]
